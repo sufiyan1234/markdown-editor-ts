@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.env
+
+# React (Frontend) Ignores
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+
+
+# Express Backend Ignores
+backend/node_modules/
+backend/dist/
+backend/.env
