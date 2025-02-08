@@ -19,25 +19,36 @@ A **real-time Markdown editor** with live preview, built using **React (TypeScri
 ### **1️⃣ Clone the Repository**
 
 git clone https://github.com/sufiyan1234/markdown-editor-ts.git
+
+```sh
 cd markdown-editor-ts
+```
 
 ### **2️⃣ Install the backend packages**
 
+```sh
 cd backend
 npm install
+```
 
 ### **3️⃣ Install the backend packages**
 
+```sh
 cd frontend
 npm install
+```
 
 ### **4️⃣ Start the Backend**
 
+```sh
 cd backend
 npx tsc
 node dist/server.js
+```
 
 ### **4️⃣ Start the Frontend**
 
+```sh
 cd frontend
 npm start
+```
