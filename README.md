@@ -5,11 +5,10 @@ A **real-time Markdown editor** with live preview, built using **React (TypeScri
 ## 🚀 Features
 
 ✔ **Real-time Markdown Preview** – Instantly converts Markdown to HTML.  
-✔ **Syntax Validation** – Highlights incorrect Markdown syntax with **red squiggly lines**.  
+✔ **Syntax Validation** – Highlights incorrect Markdown syntax with a **warning**.  
 ✔ **Error Boundaries** – Prevents UI crashes by handling errors gracefully.  
 ✔ **REST API Integration** – Backend handles Markdown conversion using `marked.js`.  
 ✔ **TypeScript Support** – Ensures type safety and better maintainability.  
-✔ **Docker-Ready** – Easily deployable in a **Docker container**.  
 ✔ **Production-Ready** – Clean structure with optimized builds.
 
 ---
