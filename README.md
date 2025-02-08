@@ -31,7 +31,7 @@ cd backend
 npm install
 ```
 
-### **3️⃣ Install the backend packages**
+### **3️⃣ Install the frontend packages**
 
 ```sh
 cd frontend
